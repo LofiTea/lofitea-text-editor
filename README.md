@@ -1,4 +1,4 @@
-# lofitea-text-editor
+# LofiTea Text Editor
 
 This is a modified version of Antirez's Kilo text editor that was built with over 1,000 lines of C code.  It is a small programming project that utilizes several different libraries in C.  I may expand on this project in the future.
 
